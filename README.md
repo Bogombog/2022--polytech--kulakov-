@@ -1,3 +1,3 @@
 # 2022--polytech--kulakov-
-git checkout -b quote
+$git checkout -b quote
 
