@@ -1,2 +1,3 @@
 # 2022--polytech--kulakov-
-git branch "quote" 
+git checkout -b quote
+
